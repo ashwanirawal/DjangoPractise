@@ -1,0 +1,2 @@
+# DjangoPractise
+Django Practise Playground
