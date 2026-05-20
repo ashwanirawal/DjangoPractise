@@ -10,3 +10,4 @@ requests
 PyJWT
 django-filter
 drf-yasg
+django-debug-toolbar
