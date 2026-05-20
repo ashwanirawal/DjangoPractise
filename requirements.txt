@@ -1,0 +1,12 @@
+Django
+djangorestframework
+django-cors-headers
+python-dotenv
+Pillow
+psycopg2-binary
+gunicorn
+whitenoise
+requests
+PyJWT
+django-filter
+drf-yasg
